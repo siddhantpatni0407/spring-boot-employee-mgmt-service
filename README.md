@@ -14,11 +14,11 @@ Spring Boot App for Employee Management using Spring Reactive.
 
 ## Architecture Overview
 
-![employee-mgmt-flow-diagram.png](src/main/resources/diagrams/employee-mgmt-flow-diagram.png)
+![employee-mgmt-flow-diagram.png](src/main/resources/artifacts/employee-mgmt-flow-diagram.png)
 
 ## Sequence Diagram
 
-![employee-mgmt-sequence-diagram.png](src/main/resources/diagrams/employee-mgmt-sequence-diagram.png)
+![employee-mgmt-sequence-diagram.png](src/main/resources/artifacts/employee-mgmt-sequence-diagram.png)
 
 ## API Details
 
